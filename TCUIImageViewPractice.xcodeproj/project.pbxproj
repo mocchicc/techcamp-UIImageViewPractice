@@ -12,6 +12,7 @@
 		346A45D11D0BC26900E10611 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 346A45CF1D0BC26900E10611 /* Main.storyboard */; };
 		346A45D31D0BC26900E10611 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 346A45D21D0BC26900E10611 /* Assets.xcassets */; };
 		346A45D61D0BC26900E10611 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 346A45D41D0BC26900E10611 /* LaunchScreen.storyboard */; };
+		346A45DE1D0BC36B00E10611 /* animals.png in Resources */ = {isa = PBXBuildFile; fileRef = 346A45DD1D0BC36B00E10611 /* animals.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		346A45D21D0BC26900E10611 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		346A45D51D0BC26900E10611 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		346A45D71D0BC26900E10611 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		346A45DD1D0BC36B00E10611 /* animals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = animals.png; path = ../../../../Downloads/animals.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		346A45CA1D0BC26900E10611 /* TCUIImageViewPractice */ = {
 			isa = PBXGroup;
 			children = (
+				346A45DD1D0BC36B00E10611 /* animals.png */,
 				346A45CB1D0BC26900E10611 /* AppDelegate.swift */,
 				346A45CD1D0BC26900E10611 /* ViewController.swift */,
 				346A45CF1D0BC26900E10611 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				346A45D61D0BC26900E10611 /* LaunchScreen.storyboard in Resources */,
 				346A45D31D0BC26900E10611 /* Assets.xcassets in Resources */,
 				346A45D11D0BC26900E10611 /* Main.storyboard in Resources */,
+				346A45DE1D0BC36B00E10611 /* animals.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
